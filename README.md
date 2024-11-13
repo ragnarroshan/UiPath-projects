@@ -34,7 +34,7 @@ Choose an browser process the lead generation .<br>
 ### Write Data to Excel:
 
 Use the Excel Applicationn Scope activity to open or create an Excel file.<br>
-Write the extracted data (Invoice Number, Date, Total Amount) into specific cells using Write Cell activity.<br>
+Write the extracted data (mobile number , Date,  email) into specific cells using Write Cell activity.<br>
 
 ### Run and Test:
 
