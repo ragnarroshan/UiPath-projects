@@ -49,6 +49,6 @@ Run the workflow and verify that the data has been extracted correctly and saved
 
 ## Result:
 
-The automation successfully extracts the Invoice Number, Date, and Total Amount from the PDF and enters them into an Excel file, demonstrating efficient invoice processing using OCR.
+The automation successfully extracts the leads and stored it sucessfully in an ecxel sheet
 
 
